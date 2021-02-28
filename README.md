@@ -1,3 +1,6 @@
+
+[![Python version](https://img.shields.io/badge/python-v3.7-blue)](https://www.python.org/)
+
 # Visual data analysis
 This project was completed in first week of the Data Science Bootcamp at Spiced Academy.
 
